@@ -1,0 +1,116 @@
+Checking Finite Field in o of size 2^6 , mod: x^6 + x + 1
+Checked 4  circulant 5 x 5  matrices for XOR count in Finite Field in o of size 2^6 , mod: 0x43 
+
+Checked 3 orthogonal circulant 5 x 5  matrices for MDS property in Finite Field in o of size 2^6 , mod: 0x43 
+
+Found 2 MDS orthogonal circulant 5 x 5  matrices in Finite Field in o of size 2^6 , mod: 0x43 
+
+circ( ['0x1', '0x26', '0x13', '0x11', '0x24'] ): MDS with lowest XOR count :  410
+
+Searched for 5x5 COMDS matrices in GF(2^6)/p^6 + p + 1:
+(4, 3, 2, 410, 5.8033361902874452, [1, o^5 + o^2 + o, o^4 + o + 1, o^4 + 1, o^5 + o^2])
+
+
+Checking Finite Field in o of size 2^6 , mod: x^6 + x^3 + 1
+Checked 4  circulant 5 x 5  matrices for XOR count in Finite Field in o of size 2^6 , mod: 0x49 
+
+Checked 2 orthogonal circulant 5 x 5  matrices for MDS property in Finite Field in o of size 2^6 , mod: 0x49 
+
+Found 1 MDS orthogonal circulant 5 x 5  matrices in Finite Field in o of size 2^6 , mod: 0x49 
+
+circ( ['0x2', '0x1c', '0x24', '0x3c', '0x7'] ): MDS with lowest XOR count :  400
+
+Searched for 5x5 COMDS matrices in GF(2^6)/p^6 + p^3 + 1:
+(4, 2, 1, 400, 5.9731659057404389, [o, o^4 + o^3 + o^2, o^5 + o^2, o^5 + o^4 + o^3 + o^2, o^2 + o + 1])
+
+
+Checking Finite Field in o of size 2^6 , mod: x^6 + x^4 + x^2 + x + 1
+Checked 4  circulant 5 x 5  matrices for XOR count in Finite Field in o of size 2^6 , mod: 0x57 
+
+Checked 2 orthogonal circulant 5 x 5  matrices for MDS property in Finite Field in o of size 2^6 , mod: 0x57 
+
+Found 1 MDS orthogonal circulant 5 x 5  matrices in Finite Field in o of size 2^6 , mod: 0x57 
+
+circ( ['0x2', '0x3a', '0xf', '0x2a', '0x1c'] ): MDS with lowest XOR count :  370
+
+Searched for 5x5 COMDS matrices in GF(2^6)/p^6 + p^4 + p^2 + p + 1:
+(4, 2, 1, 370, 3.9596352025786414, [o, o^5 + o^4 + o^3 + o, o^3 + o^2 + o + 1, o^5 + o^3 + o, o^4 + o^3 + o^2])
+
+
+Checking Finite Field in o of size 2^6 , mod: x^6 + x^4 + x^3 + x + 1
+Checked 4  circulant 5 x 5  matrices for XOR count in Finite Field in o of size 2^6 , mod: 0x5b 
+
+Checked 3 orthogonal circulant 5 x 5  matrices for MDS property in Finite Field in o of size 2^6 , mod: 0x5b 
+
+Found 2 MDS orthogonal circulant 5 x 5  matrices in Finite Field in o of size 2^6 , mod: 0x5b 
+
+circ( ['0x1', '0x33', '0x2d', '0x2f', '0x31'] ): MDS with lowest XOR count :  320
+
+Searched for 5x5 COMDS matrices in GF(2^6)/p^6 + p^4 + p^3 + p + 1:
+(4, 3, 2, 320, 4.1447208515773415, [1, o^5 + o^4 + o + 1, o^5 + o^3 + o^2 + 1, o^5 + o^3 + o^2 + o + 1, o^5 + o^4 + 1])
+
+
+Checking Finite Field in o of size 2^6 , mod: x^6 + x^5 + 1
+Checked 4  circulant 5 x 5  matrices for XOR count in Finite Field in o of size 2^6 , mod: 0x61 
+
+Checked 3 orthogonal circulant 5 x 5  matrices for MDS property in Finite Field in o of size 2^6 , mod: 0x61 
+
+Found 2 MDS orthogonal circulant 5 x 5  matrices in Finite Field in o of size 2^6 , mod: 0x61 
+
+circ( ['0x1', '0x25', '0x12', '0x32', '0x5'] ): MDS with lowest XOR count :  340
+
+Searched for 5x5 COMDS matrices in GF(2^6)/p^6 + p^5 + 1:
+(4, 3, 2, 340, 5.8033361902874452, [1, o^5 + o^2 + 1, o^4 + o, o^5 + o^4 + o, o^2 + 1])
+
+
+Checking Finite Field in o of size 2^6 , mod: x^6 + x^5 + x^2 + x + 1
+Checked 4  circulant 5 x 5  matrices for XOR count in Finite Field in o of size 2^6 , mod: 0x67 
+
+Checked 3 orthogonal circulant 5 x 5  matrices for MDS property in Finite Field in o of size 2^6 , mod: 0x67 
+
+Found 2 MDS orthogonal circulant 5 x 5  matrices in Finite Field in o of size 2^6 , mod: 0x67 
+
+circ( ['0x1', '0x5', '0x3a', '0x38', '0x7'] ): MDS with lowest XOR count :  370
+
+Searched for 5x5 COMDS matrices in GF(2^6)/p^6 + p^5 + p^2 + p + 1:
+(4, 3, 2, 370, 4.4920720093849784, [1, o^2 + 1, o^5 + o^4 + o^3 + o, o^5 + o^4 + o^3, o^2 + o + 1])
+
+
+Checking Finite Field in o of size 2^6 , mod: x^6 + x^5 + x^3 + x^2 + 1
+Checked 4  circulant 5 x 5  matrices for XOR count in Finite Field in o of size 2^6 , mod: 0x6d 
+
+Checked 3 orthogonal circulant 5 x 5  matrices for MDS property in Finite Field in o of size 2^6 , mod: 0x6d 
+
+Found 2 MDS orthogonal circulant 5 x 5  matrices in Finite Field in o of size 2^6 , mod: 0x6d 
+
+circ( ['0x1', '0x3', '0xc', '0x4', '0xb'] ): MDS with lowest XOR count :  300
+
+Searched for 5x5 COMDS matrices in GF(2^6)/p^6 + p^5 + p^3 + p^2 + 1:
+(4, 3, 2, 300, 4.1447208515773415, [1, o + 1, o^3 + o^2, o^2, o^3 + o + 1])
+
+
+Checking Finite Field in o of size 2^6 , mod: x^6 + x^5 + x^4 + x + 1
+Checked 4  circulant 5 x 5  matrices for XOR count in Finite Field in o of size 2^6 , mod: 0x73 
+
+Checked 3 orthogonal circulant 5 x 5  matrices for MDS property in Finite Field in o of size 2^6 , mod: 0x73 
+
+Found 2 MDS orthogonal circulant 5 x 5  matrices in Finite Field in o of size 2^6 , mod: 0x73 
+
+circ( ['0x1', '0x17', '0x27', '0x25', '0x15'] ): MDS with lowest XOR count :  360
+
+Searched for 5x5 COMDS matrices in GF(2^6)/p^6 + p^5 + p^4 + p + 1:
+(4, 3, 2, 360, 4.4920720093849784, [1, o^4 + o^2 + o + 1, o^5 + o^2 + o + 1, o^5 + o^2 + 1, o^4 + o^2 + 1])
+
+
+Checking Finite Field in o of size 2^6 , mod: x^6 + x^5 + x^4 + x^2 + 1
+Checked 4  circulant 5 x 5  matrices for XOR count in Finite Field in o of size 2^6 , mod: 0x75 
+
+Checked 2 orthogonal circulant 5 x 5  matrices for MDS property in Finite Field in o of size 2^6 , mod: 0x75 
+
+Found 1 MDS orthogonal circulant 5 x 5  matrices in Finite Field in o of size 2^6 , mod: 0x75 
+
+circ( ['0x2', '0x31', '0x5', '0x27', '0x10'] ): MDS with lowest XOR count :  390
+
+Searched for 5x5 COMDS matrices in GF(2^6)/p^6 + p^5 + p^4 + p^2 + 1:
+(4, 2, 1, 390, 3.9596352025786414, [o, o^5 + o^4 + 1, o^2 + 1, o^5 + o^2 + o + 1, o^4])
+

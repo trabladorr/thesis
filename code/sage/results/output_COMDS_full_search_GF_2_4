@@ -1,0 +1,38 @@
+Checking Finite Field in o of size 2^4 , mod: x^4 + x + 1
+Checked 225  circulant 5 x 5  matrices for XOR count in Finite Field in o of size 2^4 , mod: 0x13 
+
+Checked 52 orthogonal circulant 5 x 5  matrices for MDS property in Finite Field in o of size 2^4 , mod: 0x13 
+
+Found 2 MDS orthogonal circulant 5 x 5  matrices in Finite Field in o of size 2^4 , mod: 0x13 
+
+circ( ['0x4', '0x5', '0x2', '0x1', '0x3'] ): MDS with lowest XOR count :  150
+
+Searched for 5x5 COMDS matrices in GF(2^4)/p^4 + p + 1:
+(225, 52, 2, 150, 2.817356917396161, [o^2, o^2 + 1, o, 1, o + 1])
+
+
+Checking Finite Field in o of size 2^4 , mod: x^4 + x^3 + 1
+Checked 225  circulant 5 x 5  matrices for XOR count in Finite Field in o of size 2^4 , mod: 0x19 
+
+Checked 46 orthogonal circulant 5 x 5  matrices for MDS property in Finite Field in o of size 2^4 , mod: 0x19 
+
+Found 1 MDS orthogonal circulant 5 x 5  matrices in Finite Field in o of size 2^4 , mod: 0x19 
+
+circ( ['0xd', '0x7', '0x1', '0x6', '0xc'] ): MDS with lowest XOR count :  150
+
+Searched for 5x5 COMDS matrices in GF(2^4)/p^4 + p^3 + 1:
+(225, 46, 1, 150, 2.817356917396161, [o^3 + o^2 + 1, o^2 + o + 1, 1, o^2 + o, o^3 + o^2])
+
+
+Checking Finite Field in o of size 2^4 , mod: x^4 + x^3 + x^2 + x + 1
+Checked 225  circulant 5 x 5  matrices for XOR count in Finite Field in o of size 2^4 , mod: 0x1f 
+
+Checked 48 orthogonal circulant 5 x 5  matrices for MDS property in Finite Field in o of size 2^4 , mod: 0x1f 
+
+Found 2 MDS orthogonal circulant 5 x 5  matrices in Finite Field in o of size 2^4 , mod: 0x1f 
+
+circ( ['0x5', '0xf', '0xc', '0xf', '0x8'] ): MDS with lowest XOR count :  180
+
+Searched for 5x5 COMDS matrices in GF(2^4)/p^4 + p^3 + p^2 + p + 1:
+(225, 48, 2, 180, 1.984313483298443, [o^2 + 1, o^3 + o^2 + o + 1, o^3 + o^2, o^3 + o^2 + o + 1, o^3])
+
